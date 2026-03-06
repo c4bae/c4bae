@@ -1,2 +1,2 @@
-## software engineering @ university of waterloo
-
+## charles bae
+software engineering at university of waterloo
