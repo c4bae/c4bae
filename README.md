@@ -1,4 +1,4 @@
-hey, i'm charles
+i'm charles
 
 studying software engineering at the university of waterloo
 
